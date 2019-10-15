@@ -1,0 +1,16 @@
+{
+  "name": "gulp-ex",
+  "version": "1.0.0",
+  "description": "gulp example",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "luna",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
